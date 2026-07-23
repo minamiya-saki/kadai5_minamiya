@@ -220,7 +220,7 @@ footer {
 }
 
 .footer__logo{
-    width: 38%;
+    width: 380px;
     padding-top: 4px;
 }
 
@@ -460,7 +460,7 @@ footer p {
         margin-bottom: 248px;
     }
     .footer__logo{
-        width: 100%;
+        width: 326px;
         padding-top: 0;
         padding-bottom: 39px;
     }
